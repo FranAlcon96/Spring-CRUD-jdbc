@@ -8,4 +8,4 @@ Una CRUD sencilla empleando jdbcTemplate
 
 ### Ejecutar:
 
-* Para compilar y ejecutar: mvn clean jetty:run 
+* Para compilar y ejecutar: <code>mvn clean jetty:run<code> 
